@@ -16,7 +16,7 @@
 
 &nbsp;
 &nbsp;
-## 3. Ceritifcar que o emulador mobile esteje selecionado na IDE.
+## 3. Certificar que o emulador mobile esteje selecionado na IDE.
 
 &nbsp;
 &nbsp;

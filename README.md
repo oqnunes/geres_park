@@ -1,16 +1,29 @@
-# geres_park
+# geres_park - Lista de Hoteis
 
-A new Flutter project.
+## Uma aplicação feita em Flutter para mostrar a simplicidade na criação de uma tela.
+\
+![Alt text](https://i.imgur.com/gvljeJd.jpeg)
 
-## Getting Started
+&nbsp;
+# 🇧🇷🇵🇹 Como abrir aplicação?
 
-This project is a starting point for a Flutter application.
+## 1. Clonar o projeto.
+  `git clone https://github.com/oqnunes/geres_park.git`
 
-A few resources to get you started if this is your first Flutter project:
+&nbsp;
+&nbsp;
+## 2. Abrir o arquivo `pubspec.yaml` para instalar as libs.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+&nbsp;
+&nbsp;
+## 3. Ceritifcar que o emulador mobile esteje selecionado na IDE.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+## 4. É isto! Aproveite!
+
+
+&nbsp;
+&nbsp;
+
+### Visite: [oqnunes.dev](https://oqnunes.dev)
